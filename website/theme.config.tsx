@@ -3,9 +3,9 @@ import type { DocsThemeConfig } from 'nextra-theme-docs';
 const config: DocsThemeConfig = {
   logo: <span style={{ fontWeight: 700 }}>Aura</span>,
   project: {
-    link: 'https://github.com/perseveringman/Aura',
+    link: 'https://github.com/buggyblues/Aura',
   },
-  docsRepositoryBase: 'https://github.com/perseveringman/Aura',
+  docsRepositoryBase: 'https://github.com/buggyblues/Aura',
   footer: {
     text: `Copyright © ${new Date().getFullYear()} Aura. Built with Nextra.`,
   },

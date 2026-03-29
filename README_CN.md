@@ -15,15 +15,15 @@
 
 ## iOS 快捷指令
 
-配套 **[「录音到 Obsidian」快捷指令](https://www.icloud.com/shortcuts/5e5e2f8b05c643b4a5b1ccfb0c5922f3)** —— 在 iPhone 上随时录音，音频自动保存到 Vault，回到桌面端用 Aura 转写。详见[使用文档](https://perseveringman.github.io/Aura/ios-shortcut)。
+配套 **[「录音到 Obsidian」快捷指令](https://www.icloud.com/shortcuts/5e5e2f8b05c643b4a5b1ccfb0c5922f3)** —— 在 iPhone 上随时录音，音频自动保存到 Vault，回到桌面端用 Aura 转写。详见[使用文档](https://buggyblues.github.io/Aura/ios-shortcut)。
 
 ## 安装方法
 
-1. 前往 [GitHub Releases](https://github.com/perseveringman/Aura/releases) 下载最新版本的 `main.js`、`manifest.json`、`styles.css`。
+1. 前往 [GitHub Releases](https://github.com/buggyblues/Aura/releases) 下载最新版本的 `main.js`、`manifest.json`、`styles.css`。
 2. 在 Obsidian 库的 `.obsidian/plugins/` 目录下创建文件夹 `aura`，将三个文件放入。
 3. Obsidian → 设置 → 第三方插件 → 启用 **Aura**。
 
-或通过 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 安装：添加仓库 `perseveringman/Aura`。
+或通过 [BRAT](https://github.com/TfTHacker/obsidian42-brat) 安装：添加仓库 `buggyblues/Aura`。
 
 ## 快速开始
 
@@ -33,7 +33,7 @@
 
 ## 使用文档
 
-- [**在线文档**](https://perseveringman.github.io/Aura/)：安装、功能介绍、Provider 配置指南
+- [**在线文档**](https://buggyblues.github.io/Aura/)：安装、功能介绍、Provider 配置指南
 
 ## 隐私说明
 

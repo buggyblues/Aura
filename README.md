@@ -25,7 +25,7 @@ Pair with the **[Record to Obsidian](https://www.icloud.com/shortcuts/5e5e2f8b05
 
 ## Documentation
 
-- [**使用文档（中文）**](https://perseveringman.github.io/Aura/)
+- [**使用文档（中文）**](https://buggyblues.github.io/Aura/)
 - [**Provider Setup Guide**](docs/providers.md)
 - [**Architecture & Development**](docs/architecture.md)
 
