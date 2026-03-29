@@ -32,7 +32,7 @@ iPhone 录音 → 音频保存到 Vault → Obsidian 同步 → Aura 转写 & �
 1. **录音**：在 iPhone 上运行「录音到 Obsidian」快捷指令，开始录音。
 2. **保存**：录音结束后，音频文件自动保存到 Vault 的指定目录。
 3. **同步**：通过 iCloud（或其他同步方案）将音频同步到桌面端。
-4. **转写**：在 Obsidian 中右键点击该音频文件 → **Transcribe audio**，Aura 会自动完成转写。
+4. **转写**：在 Obsidian 中右键点击该音频文件 → **转写音频**，Aura 会自动完成转写。
 5. **润色 / 思考**：对转写结果使用 [AI 润色](/features/ai-polish) 或 [思维动作](/features/thinking-actions) 进一步处理。
 
 ## 小技巧

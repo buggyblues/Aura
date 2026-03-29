@@ -1,10 +1,10 @@
 {
   "id": "aura",
   "name": "Aura",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minAppVersion": "0.15.0",
   "description": "Voice transcription, AI polishing, and cognitive thinking actions for Obsidian.",
   "author": "perseveringman",
-  "authorUrl": "https://github.com/perseveringman",
+  "authorUrl": "https://github.com/buggyblues",
   "isDesktopOnly": false
 }

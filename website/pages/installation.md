@@ -29,9 +29,10 @@ title: 安装与快速入门
 
 ## 第一次转录
 
-1. 使用命令面板（`Ctrl/Cmd + P`）搜索 **Open transcription modal**。
-2. 点击 **Start Recording** 开始录音。
+1. 使用命令面板（`Ctrl/Cmd + P`）搜索 **打开转写窗口**。
+2. 点击录音面板中的 **Start Recording** 开始录音。
 3. 点击 **Stop Recording** 结束录音，转录结果将自动插入当前笔记。
+4. 如果你更习惯处理已有音频，也可以在文件列表右键音频文件，选择 **转写音频**。
 
 ## 系统要求
 

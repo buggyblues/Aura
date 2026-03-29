@@ -10,6 +10,7 @@ An AI-powered Obsidian plugin that transforms your voice and notes into structur
 - **✨ AI Polishing**: Remove filler words, fix punctuation, and reformat raw transcripts into clean prose.
 - **🧠 Thinking Actions**: 20+ cognitive models — First Principles, Socratic Questioning, Six Thinking Hats, Daily Review, and more.
 - **📦 Batch Processing**: Run any thinking action across a folder, tag, or date range.
+- **🗓️ Daily Note Workflow**: Auto-link transcription notes to daily notes and optionally embed them inline.
 - **🔌 Multi-Provider LLM**: OpenAI, Gemini, Claude, DeepSeek, Minimax, Zhipu GLM, OpenRouter.
 - **📄 Long Audio Support**: Automatically chunks large files for providers with size limits.
 
@@ -21,13 +22,22 @@ Pair with the **[Record to Obsidian](https://www.icloud.com/shortcuts/5e5e2f8b05
 
 1. **Install**: Download `main.js`, `manifest.json`, `styles.css` to `.obsidian/plugins/aura/`, or install via BRAT.
 2. **Configure**: Settings → **Aura** → choose an ASR provider and enter your API Key.
-3. **Use**: `Cmd/Ctrl + P` → "Open transcription modal", or right-click any audio file → "Transcribe audio".
+3. **Use**: `Cmd/Ctrl + P` → run `打开转写窗口`, or right-click any audio file → `转写音频`.
 
 ## Documentation
 
 - [**使用文档（中文）**](https://buggyblues.github.io/Aura/)
 - [**Provider Setup Guide**](docs/providers.md)
 - [**Architecture & Development**](docs/architecture.md)
+
+## Latest Release
+
+### v1.2.0
+
+- Added inline embed mode for daily notes with `![[note]]` links
+- Improved auto-transcription reliability for synced vaults to avoid duplicate processing
+- Refined built-in AI prompts for richer thinking-action output
+- Upgraded the docs site and added the iOS Shortcut guide
 
 ## License
 
